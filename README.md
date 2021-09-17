@@ -6,7 +6,7 @@
 
 ## Demo
 
- [![Image](Demo .png)
+ [![Image](https://github.com/shuence/Simple-Database-Management-System-C--/blob/master/Demo%20.png)
 
 ## Usage
 
