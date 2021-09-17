@@ -16,31 +16,9 @@ Username : Shuence
 
 Password : pass
 
-<<<<<<< HEAD
-### 🚀 About Me
-
 I'm a Programmer...
 
 ### Hi, I'm Shuence! 👋
-=======
-
-## 🚀 About Me
-
-I'm a Programmer...
-
-
-# Hi, I'm Shuence! 👋
->>>>>>> a6d5c043638385d55c7098f06a94a415f8d2a022
-
-## 🛠 Skills
-
-Javascript, HTML, CSS, C++ and many more....
-
-## 🔗 Links
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?&logo=ko-fi&logoColor=)](https://shuence.netlify.app/)  
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/shuence-823a62203/)
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?&logo=facebook&logoColor=black)](https://www.facebook.com/shubham.pitekar.1/)
 
@@ -51,6 +29,7 @@ Javascript, HTML, CSS, C++ and many more....
 <<<<<<< HEAD
 [![Github](https://img.shields.io/badge/GitHub-100000?&logo=github&logoColor=white)](https://github.com.com/shuence)
 =======
+
 [![Github](https://img.shields.io/badge/GitHub-100000?&logo=github&logoColor=white)](https://github.com.com/shuence)
 
 >>>>>>> a6d5c043638385d55c7098f06a94a415f8d2a022
