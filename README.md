@@ -6,7 +6,7 @@
 
 ## Demo
 
- [![Image](demo.png)
+ [![Image](Demo.png)
 
 ## Usage
 
